@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.edurekademo.tutorial</groupId>
     <artifactId>addressbook</artifactId>
-    <packaging>war-${BUILD_NUMBER}</packaging>
+    <packaging>war</packaging>
     <version>${BUILD_NUMBER}</version>
     <name>Vaadin Addressbook example</name>
 
